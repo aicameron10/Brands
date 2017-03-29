@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Brands</string>
+    <string name="action_settings">Settings</string>
+    <string name="selected">Selected Brands</string>
+    <string name="brands">All Brands</string>
+
+</resources>
